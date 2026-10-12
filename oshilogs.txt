@@ -1,0 +1,88 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VTaWx2aWE/c21hcG9ja2VTaWx2aWE/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Silvia =====
+[1]Silvia      |18:47:52 | 12-10-2026| login OK @silviaa_kinley | score=1000 rank=6200
+[1]Silvia      |18:47:52 | 12-10-2026| serverTime=2026-10-12T18:47:52.000Z local=2026-10-12T18:47:52.822Z
+--> [1]Silvia menjalankan: Claim Daily
+[1]Silvia      |18:47:53 | 12-10-2026| daily: OK +10 poin score=1010
+--> [1]Silvia menjalankan: Auto All Tasks (10 pending)
+[1]Silvia      |18:47:55 | 12-10-2026| [1/10] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/silviaa_kinley/status/2109717134300766914
+[1]Silvia      |18:47:55 | 12-10-2026| delay 10s...
+[1]Silvia      |18:48:08 | 12-10-2026| [2/10] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/silviaa_kinley/status/2109717159305602568
+[1]Silvia      |18:48:08 | 12-10-2026| delay 10s...
+[1]Silvia      |18:48:20 | 12-10-2026| [3/10] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/silviaa_kinley/status/2109717238091493948
+[1]Silvia      |18:48:20 | 12-10-2026| delay 10s...
+[1]Silvia      |18:48:32 | 12-10-2026| [4/10] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/silviaa_kinley/status/2109717368601085206
+[1]Silvia      |18:48:32 | 12-10-2026| delay 10s...
+[1]Silvia      |18:48:44 | 12-10-2026| [5/10] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Silvia      |18:48:44 | 12-10-2026| delay 10s...
+[1]Silvia      |18:48:56 | 12-10-2026| [6/10] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/silviaa_kinley/status/2109717444138657438
+[1]Silvia      |18:48:56 | 12-10-2026| delay 10s...
+[1]Silvia      |18:49:09 | 12-10-2026| [7/10] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/silviaa_kinley/status/2109717763503464231
+[1]Silvia      |18:49:09 | 12-10-2026| delay 10s...
+[1]Silvia      |18:49:21 | 12-10-2026| [8/10] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/silviaa_kinley/status/2109717482897017908
+[1]Silvia      |18:49:21 | 12-10-2026| delay 10s...
+[1]Silvia      |18:49:33 | 12-10-2026| [9/10] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/silviaa_kinley/status/2109717524973498050
+[1]Silvia      |18:49:33 | 12-10-2026| delay 10s...
+[1]Silvia      |18:49:45 | 12-10-2026| [10/10] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Silvia      |18:49:45 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Silvia      |18:49:47 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/silviaa_kinley/status/2109717792280548000
+--> [1]Silvia menjalankan: Watch Anime
+[1]Silvia      |18:49:48 | 12-10-2026| watch: semua video sudah completed
+--> [1]Silvia menjalankan: Read Article
+[1]Silvia      |18:49:49 | 12-10-2026| news: 24/24 artikel selesai dibaca
+[1]Silvia      |18:49:50 | 12-10-2026| mint eligibility: {"userId":"1597034546339655680","youtube":{"url":"https://www.youtube.com/@ksilviaa","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticRead
+[1]Silvia      |18:49:50 | 12-10-2026| news: semua artikel sudah dibaca
+--> [1]Silvia menjalankan: Quiz Anime
+[1]Silvia      |18:49:51 | 12-10-2026| quiz ep1: sudah dijawab
+[1]Silvia      |18:49:51 | 12-10-2026| quiz ep2: sudah dijawab
+[1]Silvia      |18:49:51 | 12-10-2026| quiz ep3: sudah dijawab
+[1]Silvia      |18:49:51 | 12-10-2026| quiz ep4: sudah dijawab
+[1]Silvia      |18:49:51 | 12-10-2026| quiz ep5: sudah dijawab
+[1]Silvia      |18:49:51 | 12-10-2026| quiz ep6: sudah dijawab
+--> [1]Silvia menjalankan: Music Missions (realtime, bisa lama!)
+[1]Silvia      |18:49:53 | 12-10-2026| music: kedua misi sudah tercapai, stop
+[1]Silvia      |18:49:53 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Silvia      |18:49:53 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Silvia      |18:49:53 | 12-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Silvia menjalankan: Claim Missions
+[1]Silvia      |18:49:54 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Silvia      |18:49:54 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Silvia      |18:49:54 | 12-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Silvia menjalankan: Check Eligibility
+
+--- eligibility [1]Silvia ---
+  @silviaa_kinley | score=1000 rank=6200
+  tasks    [##################--] 70/80
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
+
+--> [1]Silvia menjalankan: Read Manga
+[1]Silvia      |18:49:58 | 12-10-2026| manga: 0/13 chapter belum completed
+--> [1]Silvia menjalankan: Get Gift
+[1]Silvia      |18:49:59 | 12-10-2026| gift: 0/3 belum diterima
+--> [1]Silvia menjalankan: Setup Profile
+[1]Silvia      |18:50:00 | 12-10-2026| profile: bio="https://x.com/silviaa_kinley" fav=kagura rewardAt=1791417555
+[1]Silvia      |18:50:00 | 12-10-2026| profile: bonus sudah diklaim, skip
+--> [1]Silvia menjalankan: Bind Wallet
+[1]Silvia      |18:50:00 | 12-10-2026| wallet: sudah terikat EC3cX4LVCv... (solana)
+
+== RINGKASAN ==
+- Silvia: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
