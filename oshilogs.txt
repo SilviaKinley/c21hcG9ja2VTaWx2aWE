@@ -12,134 +12,54 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Silvia =====
-[1]Silvia      |08:18:08 | 21-10-2026| login OK @silviaa_kinley | score=1630 rank=4300
-[1]Silvia      |08:18:08 | 21-10-2026| serverTime=2026-10-21T08:18:08.000Z local=2026-10-21T08:18:08.602Z
+[1]Silvia      |06:43:27 | 22-10-2026| login OK @silviaa_kinley | score=1700 rank=4168
+[1]Silvia      |06:43:27 | 22-10-2026| serverTime=2026-10-22T06:43:27.000Z local=2026-10-22T06:43:27.485Z
 --> [1]Silvia menjalankan: Claim Daily
-[1]Silvia      |08:18:09 | 21-10-2026| daily: OK +10 poin score=1640
---> [1]Silvia menjalankan: Auto All Tasks (6 pending)
-[1]Silvia      |08:18:12 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/silviaa_kinley/status/2112820264960769261
-[1]Silvia      |08:18:12 | 21-10-2026| delay 10s...
-[1]Silvia      |08:18:24 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/silviaa_kinley/status/2112820159975728886
-[1]Silvia      |08:18:24 | 21-10-2026| delay 10s...
-[1]Silvia      |08:18:37 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/silviaa_kinley/status/2112820482802062314
-[1]Silvia      |08:18:37 | 21-10-2026| delay 10s...
-[1]Silvia      |08:18:49 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/silviaa_kinley/status/2112820462254523162
-[1]Silvia      |08:18:49 | 21-10-2026| delay 10s...
-[1]Silvia      |08:19:02 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/silviaa_kinley/status/2112820537790197455
-[1]Silvia      |08:19:02 | 21-10-2026| delay 10s...
-[1]Silvia      |08:19:15 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
-[1]Silvia      |08:19:15 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Silvia      |08:19:17 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/silviaa_kinley/status/2112820564842426820
+[1]Silvia      |06:43:28 | 22-10-2026| daily: OK +10 poin score=1710
+--> [1]Silvia menjalankan: Auto All Tasks (7 pending)
+[1]Silvia      |06:43:30 | 22-10-2026| [1/7] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/silviaa_kinley/status/2113158820402252232
+[1]Silvia      |06:43:30 | 22-10-2026| delay 10s...
+[1]Silvia      |06:43:41 | 22-10-2026| [2/7] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/silviaa_kinley/status/2113158953242613858
+[1]Silvia      |06:43:41 | 22-10-2026| delay 10s...
+[1]Silvia      |06:43:53 | 22-10-2026| [3/7] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/silviaa_kinley/status/2113158885170824655
+[1]Silvia      |06:43:53 | 22-10-2026| delay 10s...
+[1]Silvia      |06:44:05 | 22-10-2026| [4/7] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/silviaa_kinley/status/2113158864128609686
+[1]Silvia      |06:44:05 | 22-10-2026| delay 10s...
+[1]Silvia      |06:44:17 | 22-10-2026| [5/7] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/silviaa_kinley/status/2113158875932853004
+[1]Silvia      |06:44:17 | 22-10-2026| delay 10s...
+[1]Silvia      |06:44:29 | 22-10-2026| [6/7] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/silviaa_kinley/status/2113159253266456628
+[1]Silvia      |06:44:29 | 22-10-2026| delay 10s...
+[1]Silvia      |06:44:41 | 22-10-2026| [7/7] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/silviaa_kinley/status/2113159253323837455
+[1]Silvia      |06:44:41 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Silvia      |06:44:42 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/silviaa_kinley/status/2113159176623660521
 --> [1]Silvia menjalankan: Watch Anime
-[1]Silvia      |08:19:18 | 21-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Silvia      |08:19:18 | 21-10-2026| watch [1/4] farming oshi-captains-hat...
-[1]Silvia      |08:19:20 | 21-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Silvia      |08:19:27 | 21-10-2026| watch oshi-captains-hat: 5% (5.19/92.00s)
-[1]Silvia      |08:19:33 | 21-10-2026| watch oshi-captains-hat: 12% (11.31/92.00s)
-[1]Silvia      |08:19:39 | 21-10-2026| watch oshi-captains-hat: 18% (16.83/92.00s)
-[1]Silvia      |08:19:48 | 21-10-2026| watch oshi-captains-hat: 24% (22.35/92.00s)
-[1]Silvia      |08:19:54 | 21-10-2026| watch oshi-captains-hat: 31% (28.67/92.00s)
-[1]Silvia      |08:20:00 | 21-10-2026| watch oshi-captains-hat: 37% (34.93/92.00s)
-[1]Silvia      |08:20:07 | 21-10-2026| watch oshi-captains-hat: 44% (41.23/92.00s)
-[1]Silvia      |08:20:14 | 21-10-2026| watch oshi-captains-hat: 51% (46.99/92.00s)
-[1]Silvia      |08:20:21 | 21-10-2026| watch oshi-captains-hat: 58% (53.68/92.00s)
-[1]Silvia      |08:20:27 | 21-10-2026| watch oshi-captains-hat: 64% (59.68/92.00s)
-[1]Silvia      |08:20:33 | 21-10-2026| watch oshi-captains-hat: 71% (65.53/92.00s)
-[1]Silvia      |08:20:40 | 21-10-2026| watch oshi-captains-hat: 77% (71.15/92.00s)
-[1]Silvia      |08:20:46 | 21-10-2026| watch oshi-captains-hat: 83% (76.82/92.00s)
-[1]Silvia      |08:20:52 | 21-10-2026| watch oshi-captains-hat: 89% (82.71/92.00s)
-[1]Silvia      |08:20:59 | 21-10-2026| watch oshi-captains-hat: 95% (88.19/92.00s)
-[1]Silvia      |08:20:59 | 21-10-2026| watch oshi-captains-hat: COMPLETED (88.19/92.00s)
-[1]Silvia      |08:21:04 | 21-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Silvia      |08:21:06 | 21-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
-[1]Silvia      |08:21:12 | 21-10-2026| watch oshi-rainbow-star: 6% (5.36/86.00s)
-[1]Silvia      |08:21:19 | 21-10-2026| watch oshi-rainbow-star: 12% (11.18/86.00s)
-[1]Silvia      |08:21:26 | 21-10-2026| watch oshi-rainbow-star: 19% (17.16/86.00s)
-[1]Silvia      |08:21:32 | 21-10-2026| watch oshi-rainbow-star: 27% (23.48/86.00s)
-[1]Silvia      |08:21:38 | 21-10-2026| watch oshi-rainbow-star: 34% (29.29/86.00s)
-[1]Silvia      |08:21:45 | 21-10-2026| watch oshi-rainbow-star: 40% (34.82/86.00s)
-[1]Silvia      |08:21:51 | 21-10-2026| watch oshi-rainbow-star: 47% (40.45/86.00s)
-[1]Silvia      |08:21:57 | 21-10-2026| watch oshi-rainbow-star: 53% (46.15/86.00s)
-[1]Silvia      |08:22:04 | 21-10-2026| watch oshi-rainbow-star: 60% (51.99/86.00s)
-[1]Silvia      |08:22:10 | 21-10-2026| watch oshi-rainbow-star: 66% (57.52/86.00s)
-[1]Silvia      |08:22:17 | 21-10-2026| watch oshi-rainbow-star: 73% (63.36/86.00s)
-[1]Silvia      |08:22:23 | 21-10-2026| watch oshi-rainbow-star: 80% (69.38/86.00s)
-[1]Silvia      |08:22:30 | 21-10-2026| watch oshi-rainbow-star: 87% (75.18/86.00s)
-[1]Silvia      |08:22:36 | 21-10-2026| watch oshi-rainbow-star: 94% (81.19/86.00s)
-[1]Silvia      |08:22:36 | 21-10-2026| watch oshi-rainbow-star: COMPLETED (81.19/86.00s)
-[1]Silvia      |08:22:41 | 21-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Silvia      |08:22:43 | 21-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
-[1]Silvia      |08:22:50 | 21-10-2026| watch oshi-rainbow-lighthouse: 6% (5.35/87.00s)
-[1]Silvia      |08:22:56 | 21-10-2026| watch oshi-rainbow-lighthouse: 12% (10.97/87.00s)
-[1]Silvia      |08:23:02 | 21-10-2026| watch oshi-rainbow-lighthouse: 18% (16.49/87.00s)
-[1]Silvia      |08:23:08 | 21-10-2026| watch oshi-rainbow-lighthouse: 25% (22.20/87.00s)
-[1]Silvia      |08:23:14 | 21-10-2026| watch oshi-rainbow-lighthouse: 32% (27.86/87.00s)
-[1]Silvia      |08:23:21 | 21-10-2026| watch oshi-rainbow-lighthouse: 38% (33.44/87.00s)
-[1]Silvia      |08:23:27 | 21-10-2026| watch oshi-rainbow-lighthouse: 44% (39.00/87.00s)
-[1]Silvia      |08:23:34 | 21-10-2026| watch oshi-rainbow-lighthouse: 51% (45.12/87.00s)
-[1]Silvia      |08:23:40 | 21-10-2026| watch oshi-rainbow-lighthouse: 58% (50.73/87.00s)
-[1]Silvia      |08:23:47 | 21-10-2026| watch oshi-rainbow-lighthouse: 64% (56.46/87.00s)
-[1]Silvia      |08:23:53 | 21-10-2026| watch oshi-rainbow-lighthouse: 71% (62.38/87.00s)
-[1]Silvia      |08:24:01 | 21-10-2026| watch oshi-rainbow-lighthouse: 78% (67.98/87.00s)
-[1]Silvia      |08:24:08 | 21-10-2026| watch oshi-rainbow-lighthouse: 86% (75.41/87.00s)
-[1]Silvia      |08:24:14 | 21-10-2026| watch oshi-rainbow-lighthouse: 93% (81.19/87.00s)
-[1]Silvia      |08:24:14 | 21-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (81.19/87.00s)
-[1]Silvia      |08:24:19 | 21-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Silvia      |08:24:21 | 21-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Silvia      |08:24:27 | 21-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.34/181.00s)
-[1]Silvia      |08:24:34 | 21-10-2026| watch bakeru-ikesou-jan-mv: 6% (11.30/181.00s)
-[1]Silvia      |08:24:40 | 21-10-2026| watch bakeru-ikesou-jan-mv: 9% (17.21/181.00s)
-[1]Silvia      |08:24:48 | 21-10-2026| watch bakeru-ikesou-jan-mv: 12% (22.83/181.00s)
-[1]Silvia      |08:24:54 | 21-10-2026| watch bakeru-ikesou-jan-mv: 16% (29.55/181.00s)
-[1]Silvia      |08:25:01 | 21-10-2026| watch bakeru-ikesou-jan-mv: 19% (35.63/181.00s)
-[1]Silvia      |08:25:07 | 21-10-2026| watch bakeru-ikesou-jan-mv: 22% (41.34/181.00s)
-[1]Silvia      |08:25:14 | 21-10-2026| watch bakeru-ikesou-jan-mv: 26% (47.27/181.00s)
-[1]Silvia      |08:25:20 | 21-10-2026| watch bakeru-ikesou-jan-mv: 29% (52.90/181.00s)
-[1]Silvia      |08:25:27 | 21-10-2026| watch bakeru-ikesou-jan-mv: 32% (58.71/181.00s)
-[1]Silvia      |08:25:34 | 21-10-2026| watch bakeru-ikesou-jan-mv: 35% (65.00/181.00s)
-[1]Silvia      |08:25:40 | 21-10-2026| watch bakeru-ikesou-jan-mv: 39% (71.23/181.00s)
-[1]Silvia      |08:25:47 | 21-10-2026| watch bakeru-ikesou-jan-mv: 42% (76.92/181.00s)
-[1]Silvia      |08:25:54 | 21-10-2026| watch bakeru-ikesou-jan-mv: 45% (83.11/181.00s)
-[1]Silvia      |08:26:00 | 21-10-2026| watch bakeru-ikesou-jan-mv: 49% (88.83/181.00s)
-[1]Silvia      |08:26:06 | 21-10-2026| watch bakeru-ikesou-jan-mv: 52% (94.52/181.00s)
-[1]Silvia      |08:26:12 | 21-10-2026| watch bakeru-ikesou-jan-mv: 55% (100.14/181.00s)
-[1]Silvia      |08:26:19 | 21-10-2026| watch bakeru-ikesou-jan-mv: 58% (105.82/181.00s)
-[1]Silvia      |08:26:25 | 21-10-2026| watch bakeru-ikesou-jan-mv: 61% (111.37/181.00s)
-[1]Silvia      |08:26:32 | 21-10-2026| watch bakeru-ikesou-jan-mv: 64% (116.99/181.00s)
-[1]Silvia      |08:26:39 | 21-10-2026| watch bakeru-ikesou-jan-mv: 68% (123.64/181.00s)
-[1]Silvia      |08:26:46 | 21-10-2026| watch bakeru-ikesou-jan-mv: 71% (129.91/181.00s)
-[1]Silvia      |08:26:52 | 21-10-2026| watch bakeru-ikesou-jan-mv: 74% (135.56/181.00s)
-[1]Silvia      |08:26:58 | 21-10-2026| watch bakeru-ikesou-jan-mv: 78% (141.36/181.00s)
-[1]Silvia      |08:27:05 | 21-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.11/181.00s)
-[1]Silvia      |08:27:11 | 21-10-2026| watch bakeru-ikesou-jan-mv: 84% (152.70/181.00s)
-[1]Silvia      |08:27:17 | 21-10-2026| watch bakeru-ikesou-jan-mv: 87% (158.18/181.00s)
-[1]Silvia      |08:27:23 | 21-10-2026| watch bakeru-ikesou-jan-mv: 90% (163.97/181.00s)
-[1]Silvia      |08:27:23 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (163.97/181.00s)
+[1]Silvia      |06:44:43 | 22-10-2026| watch: semua video sudah completed
 --> [1]Silvia menjalankan: Read Article
-[1]Silvia      |08:27:25 | 21-10-2026| news: 27/27 artikel selesai dibaca
-[1]Silvia      |08:27:26 | 21-10-2026| mint eligibility: {"userId":"1597034546339655680","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@ksilviaa","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":n
-[1]Silvia      |08:27:33 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Silvia      |06:44:44 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Silvia      |06:44:45 | 22-10-2026| mint eligibility: {"userId":"1597034546339655680","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@ksilviaa","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":n
+[1]Silvia      |06:44:51 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Silvia      |06:44:59 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Silvia menjalankan: Quiz Anime
-[1]Silvia      |08:27:36 | 21-10-2026| quiz ep1: sudah dijawab
-[1]Silvia      |08:27:36 | 21-10-2026| quiz ep2: sudah dijawab
-[1]Silvia      |08:27:36 | 21-10-2026| quiz ep3: sudah dijawab
-[1]Silvia      |08:27:36 | 21-10-2026| quiz ep4: sudah dijawab
-[1]Silvia      |08:27:36 | 21-10-2026| quiz ep5: sudah dijawab
-[1]Silvia      |08:27:36 | 21-10-2026| quiz ep6: sudah dijawab
+[1]Silvia      |06:45:02 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Silvia      |06:45:02 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Silvia      |06:45:02 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Silvia      |06:45:02 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Silvia      |06:45:02 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Silvia      |06:45:02 | 22-10-2026| quiz ep6: sudah dijawab
 --> [1]Silvia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Silvia      |08:27:38 | 21-10-2026| music: kedua misi sudah tercapai, stop
-[1]Silvia      |08:27:39 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Silvia      |08:27:39 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Silvia      |08:27:39 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Silvia      |06:45:04 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Silvia      |06:45:04 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Silvia      |06:45:04 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Silvia      |06:45:04 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Silvia menjalankan: Claim Missions
-[1]Silvia      |08:27:40 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Silvia      |08:27:40 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Silvia      |08:27:40 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Silvia      |06:45:05 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Silvia      |06:45:05 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Silvia      |06:45:05 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Silvia menjalankan: Check Eligibility
 
 --- eligibility [1]Silvia ---
-  @silviaa_kinley | score=1630 rank=4300
-  tasks    [###################-] 74/80
+  @silviaa_kinley | score=1700 rank=4168
+  tasks    [##################--] 77/84
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -150,14 +70,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Silvia menjalankan: Read Manga
-[1]Silvia      |08:27:44 | 21-10-2026| manga: 0/13 chapter belum completed
+[1]Silvia      |06:45:08 | 22-10-2026| manga: 0/13 chapter belum completed
 --> [1]Silvia menjalankan: Get Gift
-[1]Silvia      |08:27:45 | 21-10-2026| gift: 0/4 belum diterima
+[1]Silvia      |06:45:09 | 22-10-2026| gift: 0/4 belum diterima
 --> [1]Silvia menjalankan: Setup Profile
-[1]Silvia      |08:27:46 | 21-10-2026| profile: bio="https://x.com/silviaa_kinley" fav=kagura rewardAt=1791417555
-[1]Silvia      |08:27:46 | 21-10-2026| profile: bonus sudah diklaim, skip
+[1]Silvia      |06:45:10 | 22-10-2026| profile: bio="https://x.com/silviaa_kinley" fav=kagura rewardAt=1791417555
+[1]Silvia      |06:45:10 | 22-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Silvia menjalankan: Bind Wallet
-[1]Silvia      |08:27:47 | 21-10-2026| wallet: sudah terikat EC3cX4LVCv... (solana)
+[1]Silvia      |06:45:10 | 22-10-2026| wallet: sudah terikat EC3cX4LVCv... (solana)
 
 == RINGKASAN ==
-- Silvia: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 4/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Silvia: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
